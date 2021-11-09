@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi Primera Calculadora</string>
+    <string name="btn_texto_suma">Suma</string>
+    <string name="btn_texto_resta">Resta</string>
+    <string name="btn_texto_multiplicacion">Multiplicacion</string>
+    <string name="btn_texto_division">Division</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="test_hint_numero_uno">Escribe aqui un numero</string>
+    <string name="btn_text_politicas">Politicas de privacidad</string>
+
+</resources>
